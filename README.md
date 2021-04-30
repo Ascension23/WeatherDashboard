@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-A weather dashboard providing a 5-day forecast for whatever city the user enters. It will keep 5 cities the user searches for quick access and provide the temperature, humidty, wind speed and UV Index.
+A weather dashboard providing a 5-day forecast for whatever city the user enters. It will keep cities the user searches for quick access and provide the temperature, humidty, wind speed and UV Index.
 
 ## Webpage
 

@@ -11,3 +11,5 @@ https://ascension23.github.io/WeatherDashboard/
 https://github.com/Ascension23/WeatherDashboard
 
 ## Screenshot
+
+![Weather Dashboard](https://user-images.githubusercontent.com/77472152/116737600-44de0b80-a9a6-11eb-8b70-09e6ebed2dbe.png)
